@@ -1,0 +1,2 @@
+# interface 7 segment with ADC_reading volt using ATMEGA 32
+ In this article, we will learn how to print adc value on 7 segment display using pic microcontroller. In the last two articles, we have seen how to use adc module of pic microcontroller and how to interface seven segment displays with pic microcontroller. But there are many applications where we want to use 7 segment displays instead of liquid crystal displays to show values of different types of sensors such as temperature, voltage, current, humidity etc.
